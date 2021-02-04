@@ -1,0 +1,60 @@
+.projects_list {
+    margin-top: 0;
+  }
+
+  .project_thumb {
+    float: left;
+    width: 28.97%;
+    margin-right: 6.3745%;
+    margin-bottom: 5%;
+    margin-left: 0;
+    border: none;
+  }
+  .project_thumb .tablet_dummy {
+    margin-top: 74.5%;
+  }
+  .project_thumb img {
+    position: absolute;
+    display: block;
+    width: 100%;
+    border: solid white 1px;
+    -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    filter: grayscale(100%);
+  }
+  .project_thumb .infos:hover {
+    border: solid #2a2a2a 1px;
+  }
+
+  .project_thumb.thumb_infos {
+    margin-bottom: 4.6812%;
+  }
+
+  .project_thumb:hover {
+    color: #212121;
+  }
+  .project_thumb:hover a {
+    color: #212121;
+  }
+  .project_thumb:hover img {
+    -webkit-filter: none;
+    -moz-filter: none;
+    filter: none;
+  }
+  .project_thumb:hover .infos_list td {
+    border-color: #2a2a2a;
+  }
+
+  .project_thumb.thumb_dessins:hover img {
+    border: solid #2a2a2a 1px;
+  }
+
+  .project_thumb.deux {
+    margin-right: 6.3745%;
+    margin-left: 0;
+  }
+
+  .project_thumb.trois {
+    margin-right: 0;
+    margin-left: 0;
+  }

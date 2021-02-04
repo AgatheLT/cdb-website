@@ -1,0 +1,24 @@
+#menu {
+    width: 182px;
+    display: block;
+    float: left;
+    vertical-align: top;
+    position: relative;
+    margin: 0;
+  h1 {
+  display: block;
+  margin-top: 25px;
+  padding-bottom: 60px;
+  }
+  a {
+    cursor: pointer;
+    color: #9e9e9e;
+  }
+  a:hover {
+    color: black;
+  }
+}
+
+.link {
+  text-decoration: none;
+}
